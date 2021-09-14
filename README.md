@@ -1,2 +1,1 @@
-# ML-Python
-Machine learning in Python
+# d2l
