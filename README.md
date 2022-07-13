@@ -4,11 +4,14 @@ Deep learning basics in Python using NumPy, PyTorch, and TensorFlow/Keras.
 
 ## deep-learning.ipynb
 
-This Jupyter notebook illustrates fully-detailed and commented examples of classic deep learning models written from scratch in NumPy and PyTorch, and also using higher-level APIs in PyTorch and TensorFlow/Keras.
-
-### 
+This Jupyter notebook demonstrates fully-detailed and commented examples of classic deep learning models written from scratch in NumPy and in PyTorch, and also using higher-level APIs in PyTorch and in TensorFlow/Keras.
 
 See [Jupyter notebook viewer](https://nbviewer.jupyter.org/github/zafarrafii/Deep-Learning/blob/master/deep-learning.ipynb).
+
+Models:
+- Linear regression
+- Softmax regression
+- Multilayer perceptron
 
 # Author
 
