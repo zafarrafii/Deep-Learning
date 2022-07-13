@@ -1,16 +1,14 @@
 # Deep-Learning
 
-Deep learning basics in Python using NumPy, PyTorch, and Keras.
+Deep learning basics in Python using NumPy, PyTorch, and TensorFlow/Keras.
 
-File:
-- [`Deep-Learning.ipynb`](#deep-learningipynb): Jupyter notebook with examples.
+## deep-learning.ipynb
 
-## examples.ipynb
+This Jupyter notebook illustrates fully-detailed and commented examples of classic deep learning models written from scratch in NumPy and PyTorch, and also using higher-level APIs in PyTorch and TensorFlow/Keras.
 
-This Jupyter notebook shows some examples for the different functions of the Python module `zaf`.
+### 
 
-See [Jupyter notebook viewer](https://nbviewer.jupyter.org/github/zafarrafii/Zaf-Python/blob/master/examples.ipynb).
-
+See [Jupyter notebook viewer](https://nbviewer.jupyter.org/github/zafarrafii/Deep-Learning/blob/master/deep-learning.ipynb).
 
 # Author
 
