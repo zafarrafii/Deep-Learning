@@ -1,6 +1,6 @@
 # Deep-Learning
 
-Deep learning basics in Python using NumPy, PyTorch, and TensorFlow/Keras.
+Deep learning basics in Python using NumPy, PyTorch, and TensorFlow/Keras: linear regression, softmax regression, multilayer perceptron, etc.
 
 ## deep-learning.ipynb
 
